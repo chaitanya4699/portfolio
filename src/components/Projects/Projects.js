@@ -56,7 +56,7 @@ function Projects() {
 The site features an overview of completed projects, details the company’s working process, and introduces the team of experts. 
 It aims to provide experience-driven excellence in architectural services."
               ghLink="https://github.com/ChaitanyaEmani/buildings-design"
-              demoLink="https://website-emani-chaitanyas-projects.vercel.app/"
+              demoLink="https://buildings-design.vercel.app/"
             />
           </Col>
 
