@@ -24,16 +24,13 @@ function Home2() {
                 <b className="purple"> opportunities.</b>
               </i> 
             <br />
-            <br/>
-            I previously worked as a <i><b className="purple">Python Development Intern</b></i> at <i><b className="purple">I & T Labs</b></i> for <i><b className="purple">4 months</b></i> and 
-            as a <i><b className="purple">Web Development Intern</b></i> at <i><b className="purple">OctaNet </b></i>for <i><b className="purple">1 month.</b></i>
-            <br />
+            
             <br/>
             I am good at <i><b className="purple">Problem Solving.</b></i> 
-            And proficient in <i><b className="purple">Python </b></i>and <i><b className="purple">C++</b></i> programming languages.
+            And proficient in <i><b className="purple">Python </b></i>and <i><b className="purple">java</b></i> programming languages.
             <br/>
             <br/>
-            I Specialized in <i><b className="purple">frontend tech stack.</b></i> 
+            I Specialized in <i><b className="purple">Mern stack and Data science Enthusiast</b></i> 
               
               
               <br />
@@ -73,7 +70,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/ChaitanyaEmani"
+                  href="https://github.com/chaitanya4699"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,19 +78,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+              
               <li className="social-icons">
                 <a
-                  href="https://x.com/ChaitanyaE47397"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/chaitanyaemani/"
+                  href="https://www.linkedin.com/in/padalachaitanya/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -103,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/chaitu_656/"
+                  href="https://www.instagram.com/chaitanya._reddy_?igsh=czVoZTgybmdqcGhs&utm_source=qr"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

@@ -29,7 +29,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <b className="purple" style={{fontSize: 30}}>CE.</b>
+          <b className="purple" style={{fontSize: 30}}>Chaitanya.</b>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"

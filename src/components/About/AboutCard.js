@@ -8,14 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Chaitanya Emani </span>
+            Hi Everyone, I am <span className="purple">Chaitanya Kumar Reddy Padala </span>
             from <span className="purple"> Visakhapatnam, India.</span>
             <br />
             I am currently looking for<span className="purple"> opportunities. </span>
             <br />
             I am pursuing <span className="purple">Bachelor's of Technology </span> in 
             <span className="purple"> Computer Science and Engineering  </span> at 
-            <span className="purple">  Andhra University. </span>
+            <span className="purple">  Bennett University. </span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
