@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="[https://soumyajit.vercel.app](https://my-portfolio-theta-rust-28.vercel.app/)/" target="_blank">Chaitu.Portfolio</a>
+  <a target="_blank">Chaitanya.Portfolio</a>
 </h2>
 
 
@@ -9,11 +9,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ChaitanyaEmani](https://github.com/ChaitanyaEmani/portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Chaitanya kumar](https://github.com/chaitanya4699). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="[https://my-portfolio-theta-rust-28.vercel.app/]" target="_blank">Chaitanya.Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="[https://portfolio-red-rho-19.vercel.app/]" target="_blank">Chaitanya.Portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -50,9 +50,3 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
