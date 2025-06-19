@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import buildings from "../../Assets/Projects/buildings.png";
 import editor from "../../Assets/Projects/editor.jpg";
-import netflix from "../../Assets/Projects/netflix.png";
+import fakenews from "../../Assets/Projects/fakenews.png";
 import portfolio from "../../Assets/Projects/portfolio.png";
 
 import todo from "../../Assets/Projects/todo.png";
@@ -29,8 +29,8 @@ function Projects() {
               description="Portfolio to share my skills and knowledge with recruiters. 
               Build with react.js, Node.js, express.js and CSS3. 
               Have sections like about, skills, projects and resume which allows to view my bio."
-              ghLink="https://github.com/ChaitanyaEmani/portfolio"
-              demoLink="https://my-portfolio-theta-rust-28.vercel.app/"
+              ghLink="https://github.com/chaitanya4699/portfolio"
+              demoLink="https://portfolio-red-rho-19.vercel.app/about"
             />
           </Col>
           
@@ -55,8 +55,8 @@ function Projects() {
               description="This website showcases innovative building designs. It highlights services such as architecture, interior design, and garden and outdoor planning.
 The site features an overview of completed projects, details the company’s working process, and introduces the team of experts. 
 It aims to provide experience-driven excellence in architectural services."
-              ghLink="https://github.com/ChaitanyaEmani/buildings-design"
-              demoLink="https://buildings-design.vercel.app/"
+              //ghLink="https://github.com/ChaitanyaEmani/buildings-design"
+              //demoLink="https://buildings-design.vercel.app/"
             />
           </Col>
 
@@ -67,8 +67,8 @@ It aims to provide experience-driven excellence in architectural services."
               title="Organic Products"
               description="Developed a visually appealing frontend for an organic product website, delivering 90% better user experience.
               This project enhances and promotes the organic products to save our health."
-              ghLink="https://github.com/ChaitanyaEmani/Ecommerce"
-              demoLink="https://organic-product.vercel.app/"
+              //ghLink="https://github.com/ChaitanyaEmani/Ecommerce"
+              //demoLink="https://organic-product.vercel.app/"
             />
           </Col>
           
@@ -79,19 +79,18 @@ It aims to provide experience-driven excellence in architectural services."
               title="Image Editor"
               description="This project is designed to edit the images. I have added several functionalities 
               like rotate, flip, blur, emboss, edge enhance, crop, resize, and some sliders like Brightness, contrast, Sharpness and Color in the project to edit our images."
-              ghLink="https://github.com/ChaitanyaEmani/Image-Editor/blob/main/imageditor.py"
+              //ghLink="https://github.com/ChaitanyaEmani/Image-Editor/blob/main/imageditor.py"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={netflix}
+              imgPath={fakenews}
               isBlog={false}
-              title="Netflix Clone"
-              description="This project aims to develop a Netflix clone using HTML and CSS. The project includes a header section with a navigation bar, a feature section highlighting key features, an FAQ section for essential information, and a footer with contact details and links. The result is a highly interactive website that aims to improve user experience by 10%."
-              ghLink="https://github.com/ChaitanyaEmani/Netflix"
-              demoLink="https://netflix-clone-umber-three.vercel.app/" 
+              title="Fake News"
+              description="Formulated a machine learning model capable of identifying the authenticity of news and Analyzed vast amounts of text data to identify patterns and characteristics of real vs. fake news. Built a multi-classifier model for enhanced accuracy."
+              ghLink="https://github.com/chaitanya4699/fakenewsdp21" 
             />
           </Col>
 
@@ -102,7 +101,7 @@ It aims to provide experience-driven excellence in architectural services."
               title="To Do List"
               description="This project is a web application for managing tasks.  It allows users to add, edit, and delete tasks using HTML, CSS, and JavaScript.
               The HTML includes input fields and buttons, while JavaScript handles task operations through DOM manipulation and event listeners."
-              ghLink="https://github.com/ChaitanyaEmani/To-Do-List"
+              //ghLink="https://github.com/ChaitanyaEmani/To-Do-List"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
